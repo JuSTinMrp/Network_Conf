@@ -1,0 +1,18 @@
+Concepts to be included:
+    - Network Topologies
+    - Diff LANs networks
+    - Protocols and Standards
+
+Protocols and Standards:
+    [] Wired & Wireless Configurations
+    [] ARP
+    [] VLAN
+    [] VLAN Trunking
+    [] ACL
+    [] DMZ
+    [] Zone Transferring
+    [] EIGRP
+
+
+    [] P*rn Sites Blocking
+        - DNS Configuration
