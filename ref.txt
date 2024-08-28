@@ -5,14 +5,31 @@ Concepts to be included:
 
 Protocols and Standards:
     [] Wired & Wireless Configurations
+    [] Multilayer Switching
     [] ARP
+    [] Dual-Stack Implementation
     [] VLAN
     [] VLAN Trunking
+    [] VxLAN
+    [] SDN (Software-Defined Networking)
     [] ACL
+    [] Firewall Configuration
     [] DMZ
     [] Zone Transferring
+    [] STP - RSTP, MSTP
+    [] OSPF
+    [] BGP
     [] EIGRP
-
-
+    [] SNMP
+    [] Hot Standby Router Protocol (HSRP)
+    [] MQTT, CoAP, PoE
     [] P*rn Sites Blocking
-        - DNS Configuration
+        - DNS Configuration - 208.67.222.123, 208.67.220.123
+    [] Next-Generation Firewalls
+    [] IDS & IPS
+    [] Wi-Fi 6 (802.11ax): High-efficiency wireless networking with MU-MIMO and OFDMA.
+    [] WPA3 Security
+    [] Syslog Server (n/w events & alerts)
+    [] IGMP Snooping
+
+Including: QoS, routing, filtering, 
