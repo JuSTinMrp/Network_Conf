@@ -33,3 +33,16 @@ Protocols and Standards:
     [] IGMP Snooping
 
 Including: QoS, routing, filtering, 
+
+
+
+Blocks/Building/Departments:
+    1. Office/Admin
+    2. Building A,B,C
+    3. Library
+    4. Hostel
+    5. Hi-Fi room
+    6. Lab
+    7. Guest House
+    8. VIP Person
+    9. 
