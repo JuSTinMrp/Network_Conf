@@ -14,6 +14,10 @@ Protocols and Standards:
     [] SDN (Software-Defined Networking)
     [] ACL
     [] Firewall Configuration
+    [] RIP Protocol -> add all network
+    [] SVI
+    [] Port Security
+    [] DHCP Snooping/Inspection
     [] DMZ
     [] Zone Transferring
     [] STP - RSTP, MSTP
@@ -34,7 +38,7 @@ Protocols and Standards:
 
 Including: QoS, routing, filtering, 
 
-
+Devices: Multilayer Swtich, HTTP Server, DNS Server, DHCP Server
 
 Blocks/Building/Departments:
     1. Office/Admin
@@ -45,4 +49,4 @@ Blocks/Building/Departments:
     6. Lab
     7. Guest House
     8. VIP Person
-    9. 
+    9. 5G Lab
