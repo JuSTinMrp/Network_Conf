@@ -38,7 +38,16 @@ Protocols and Standards:
 
 Including: QoS, routing, filtering, 
 
-Devices: Multilayer Swtich, HTTP Server, DNS Server, DHCP Server
+Devices: Multilayer Swtich, HTTP Server, DNS Server, DHCP Server, Cell Tower, DSL Modem, VoIP, IP Phone
+
+Devices Model: 
+Router - 2911
+Switch - 2960
+Multilayer Switch - 3650
+Server - PT server
+Firewall - 5506-X ASA
+
+
 
 Blocks/Building/Departments:
     1. Office/Admin
